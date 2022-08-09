@@ -1,3 +1,4 @@
+package ru.netology.radioman.test;
 
 public class Radioman {
     private int currentStation;
